@@ -1,6 +1,6 @@
 # Expresso
 
-## Scipts:
+## Scripts:
 
 ### Migrations
 - `$ npm run migration:up`
